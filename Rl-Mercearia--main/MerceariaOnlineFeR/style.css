@@ -1,0 +1,63 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.cabecalho {
+    background-color:red;
+    color:#FFFFFF;
+    display: flex;
+    justify-content: space-around;
+    padding:24px 0;
+    font-size: 24px;
+}
+
+.cabecalhoImagem {
+    width: 100%;
+}
+
+.cabecalhoListaItem {
+    display: inline-block;
+    margin: 0 16px;
+    padding: 24px 0;
+}
+
+.sobreImagem{
+    width: 40%;
+}
+
+.sobre{
+    background-image: url("img/ImgMadeira.png");
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    padding:60px;
+}
+.sobreconteúdo{
+    width:40%
+}
+
+.membroImagem{
+    Width: 120px;
+}
+
+.comprar{
+width:120px
+}
+
+.ProdutoPorco{
+    text-align: center;
+    padding: 50px;
+}
+
+.AlgunsDeNossosprodutos{
+    text-align: center;
+}
+
+.ProdutoSalame{
+    text-align: center;
+}
+
+.ProdutoTorresmo{
+    text-align: center;
+}
